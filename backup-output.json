@@ -1,0 +1,1226 @@
+[
+  {
+    "title": "14. Integrierte Sekundarschule",
+    "address": "Wartiner Straße 1-313057 Berlin",
+    "district": "Lichtenberg",
+    "area": "Neu-Hohenschönhausen",
+    "schoolNumber": "11K14",
+    "focus": "Neugründung zum Schuljahr 2022/23 (Bilder aus der Bauphase)",
+    "languages": "Englisch, Französisch, Latein, Russisch, Spanisch"
+  },
+  {
+    "title": "Albrecht-Haushofer-Schule",
+    "address": "Kurzebracker Weg 40-4613503 Berlin",
+    "district": "Reinickendorf",
+    "area": "Heiligensee",
+    "schoolNumber": "12K11",
+    "focus": "Naturwissenschaften und Berufsorientierung",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Albrecht-von-Graefe-Schule",
+    "address": "Graefestraße 85-8810967 Berlin",
+    "district": "Friedrichshain-Kreuzberg",
+    "area": "Kreuzberg",
+    "schoolNumber": "02K09",
+    "focus": "Berufsorientiertes Profil - Praxisorientierter Lehr-/Lernansatz mit Werkstätten (Holzwerkstatt, Textilwerkstatt, Fahrradwerkstatt, Lehrküche, Backstube, Labor, IT-Werkstatt, Sprachwerkstatt)\nStaatliche Europaschule Berlin (Deutsch/Spanisch)\nGymnasiale Oberstufe in Kooperation mit dem Robert-Koch-Gymnasium",
+    "languages": "Englisch und Spanisch"
+  },
+  {
+    "title": "Alexander-Puschkin-Schule",
+    "address": "Massower Straße 3710315 Berlin",
+    "district": "Lichtenberg",
+    "area": "Friedrichsfelde",
+    "schoolNumber": "11K01",
+    "focus": "Medien- und sprachbetontes Profil",
+    "languages": "Englisch, Französisch, Latein, Russisch"
+  },
+  {
+    "title": "Alfred-Nobel-Schule",
+    "address": "Britzer Damm 164-17012347 Berlin",
+    "district": "Neukölln",
+    "area": "Britz",
+    "schoolNumber": "08K11",
+    "focus": "Staatliche Europaschule Berlin Deutsch/Italienisch\nTheaterbetontes Profil",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Anna-Essinger-Gemeinschaftsschule",
+    "address": "Tietzenweg 10112203 Berlin",
+    "district": "Steglitz-Zehlendorf",
+    "area": "Lichterfelde",
+    "schoolNumber": "06K11",
+    "focus": "Montessori-Profil",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Anna-Seghers-Schule",
+    "address": "Radickestraße 4312489 Berlin",
+    "district": "Treptow-Köpenick",
+    "area": "Adlershof",
+    "schoolNumber": "09K02",
+    "focus": "Profil Informationstechnik, Sportprofilierung, sprachbetontes Profil, Hochbegabtenförderung",
+    "languages": "Englisch, Französisch, Latein, Russisch"
+  },
+  {
+    "title": "B.-Traven-Gemeinschaftsschule",
+    "address": "Recklinghauser Weg 26-3213583 Berlin",
+    "district": "Spandau",
+    "area": "Falkenhagener Feld",
+    "schoolNumber": "05K05",
+    "focus": "Gymnasiale Oberstufe im Verbund mit der Schule an der Jungfernheide, der Schule am Staakener Kleeblatt und der Schule an der Haveldüne.",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Benjamin-Franklin-Schule",
+    "address": "Sommerfelder Straße 5-713509 Berlin",
+    "district": "Reinickendorf",
+    "area": "Wittenau",
+    "schoolNumber": "12K06",
+    "focus": "Musikprofilierung",
+    "languages": "Englisch, Französisch"
+  },
+  {
+    "title": "Bertolt-Brecht-Oberschule",
+    "address": "Wilhelmstraße 1013595 Berlin",
+    "district": "Spandau",
+    "area": "Wilhelmstadt",
+    "schoolNumber": "05K03",
+    "focus": "Kunstprofilierung, mathematisch-naturwissenschaftliches Profil, umweltbetontes Profil\nBilinguale Angebote Deutsch/Englisch",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Bettina-von-Arnim-Schule",
+    "address": "Senftenberger Ring 4913435 Berlin",
+    "district": "Reinickendorf",
+    "area": "Märkisches Viertel",
+    "schoolNumber": "12K02",
+    "focus": "Kunstprofilierung, Musikprofilierung, theaterbetontes Profil",
+    "languages": "Englisch, Französisch, Chinesisch, Latein, Spanisch"
+  },
+  {
+    "title": "Bröndby-Schule",
+    "address": "Dessauerstraße 6312249 Berlin",
+    "district": "Steglitz-Zehlendorf",
+    "area": "Lankwitz",
+    "schoolNumber": "06K04",
+    "focus": "Förderung des Leistungssportes Basketball",
+    "languages": "Englisch, Französisch, Spanisch, Latein"
+  },
+  {
+    "title": "Campus Hannah Höch",
+    "address": "Finsterwalder Straße 52-5613435 Berlin",
+    "district": "Reinickendorf",
+    "area": "Märkisches Viertel",
+    "schoolNumber": "12K12",
+    "focus": "Sportbetontes Profil, kunstbetontes Profil",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Spanisch"
+  },
+  {
+    "title": "Carl-Benz-Schule",
+    "address": "Heidenheimer Straße 53-5413467 Berlin",
+    "district": "Reinickendorf",
+    "area": "Hermsdorf",
+    "schoolNumber": "12K09",
+    "focus": "Profil Informationstechnik",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Carl-Bosch-Schule",
+    "address": "Frohnauer Straße 74-8013467 Berlin",
+    "district": "Reinickendorf",
+    "area": "Hermsdorf",
+    "schoolNumber": "12K10",
+    "focus": "Modellschule im Projekt \"Pädagogische Schulentwicklung\" für eigenverantwortliches Arbeiten und Lernen",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Carl-von-Ossietzky-Gemeinschaftsschule",
+    "address": "Blücherstraße 46-4710961 Berlin",
+    "district": "Friedrichshain-Kreuzberg",
+    "area": "Kreuzberg",
+    "schoolNumber": "02K02",
+    "focus": "Staatliche Europaschule Berlin Deutsch/Türkisch\nBilinguale Angebote Deutsch / Englisch",
+    "languages": "Englisch, Französisch, Türkisch, Latein"
+  },
+  {
+    "title": "Carl-Zeiss-Schule",
+    "address": "Barnetstraße 12-1412305 Berlin",
+    "district": "Tempelhof-Schöneberg",
+    "area": "Lichtenrade",
+    "schoolNumber": "07K02",
+    "focus": "Medienbetontes Profil, umweltbetontes Profil",
+    "languages": "Englisch, Französisch, Latein, Spanisch"
+  },
+  {
+    "title": "Carlo-Schmid-Oberschule",
+    "address": "Lutoner Straße 15-1913581 Berlin",
+    "district": "Spandau",
+    "area": "Wilhelmstadt",
+    "schoolNumber": "05K02",
+    "focus": "Musikprofilierung",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Caspar-David-Friedrich-Schule",
+    "address": "Alte Hellersdorfer Straße 712629 Berlin",
+    "district": "Marzahn-Hellersdorf",
+    "area": "Hellersdorf",
+    "schoolNumber": "10K07",
+    "focus": "Kunstprofilierung, Musikprofilierung, theaterbetontes Profil",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Clay-Schule",
+    "address": "Neudecker Weg 2212355 Berlin",
+    "district": "Neukölln",
+    "area": "Rudow",
+    "schoolNumber": "08K05",
+    "focus": "Musikprofilierung, Sportprofilierung, sprachbetontes Profil",
+    "languages": "Englisch, Französisch"
+  },
+  {
+    "title": "Ellen-Key-Schule",
+    "address": "Rüdersdorfer Straße 20-2810243 Berlin",
+    "district": "Friedrichshain-Kreuzberg",
+    "area": "Friedrichshain",
+    "schoolNumber": "02K01",
+    "focus": "Bilinguale Angebote Deutsch/Englisch",
+    "languages": "Englisch, Französisch, Spanisch, Russisch"
+  },
+  {
+    "title": "Emanuel-Lasker-Schule",
+    "address": "Modersohnstraße 5310245 Berlin",
+    "district": "Friedrichshain-Kreuzberg",
+    "area": "Friedrichshain",
+    "schoolNumber": "02K06",
+    "focus": "Profil Informationstechnik, Sportprofilierung\nUmwandlung in eine Gemeinschaftsschule zum Schuljahr 2020/2021",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Ernst-Haeckel-Schule",
+    "address": "Luckenwalder Straße 5312629 Berlin",
+    "district": "Marzahn-Hellersdorf",
+    "area": "Hellersdorf",
+    "schoolNumber": "10K02",
+    "focus": "Mathematisch-naturwissenschaftliches Profil",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Ernst-Reuter-Schule",
+    "address": "Stralsunder Straße 5713355 Berlin",
+    "district": "Mitte",
+    "area": "Gesundbrunnen",
+    "schoolNumber": "01K03",
+    "focus": "Profilbetonter Unterricht mit Projektarbeit (Profile: Natur und Technik, Kultur und Arbeit, Politik und Gesellschaft, Sprache und Welt)",
+    "languages": "Englisch, Französisch, Türkisch, Spanisch"
+  },
+  {
+    "title": "Ernst-Schering-Schule",
+    "address": "Lütticher Straße 47/4813353 Berlin",
+    "district": "Mitte",
+    "area": "Wedding",
+    "schoolNumber": "01K02",
+    "focus": "Berufsbetontes Profil, enge Kooperation mit Betrieben der freien Wirtschaft (\"Brücke-Schule\")",
+    "languages": "Englisch, Französisch"
+  },
+  {
+    "title": "Ferdinand-Freiligrath-Schule",
+    "address": "Bergmannstraße 6410961 Berlin",
+    "district": "Friedrichshain-Kreuzberg",
+    "area": "Kreuzberg",
+    "schoolNumber": "02K10",
+    "focus": "Gymnasiale Oberstufe im Verbund mit der Gemeinschaftsschule im Bergmannkiez.",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Flatow-Oberschule",
+    "address": "Birkenstraße 1112559 Berlin",
+    "district": "Treptow-Köpenick",
+    "area": "Köpenick",
+    "schoolNumber": "09A07",
+    "focus": "Eliteschule des Sports, Partner des Olympiastützpunktes und des Landessportbundes Berlin, Leistungssportprofilierung, Internatsbetrieb",
+    "languages": "Englisch, Französisch"
+  },
+  {
+    "title": "Friedenauer Gemeinschaftsschule",
+    "address": "Rubensstraße 6312157 Berlin",
+    "district": "Tempelhof-Schöneberg",
+    "area": "Schöneberg",
+    "schoolNumber": "07K12",
+    "focus": "Profil Wirtschaft-Arbeit-Technik (WAT), theaterbetontes Profil, berufsorientiertes Profil",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Friedensburg-Schule",
+    "address": "Goethestraße 8-910623 Berlin",
+    "district": "Charlottenburg-Wilmersdorf",
+    "area": "Charlottenburg",
+    "schoolNumber": "04K02",
+    "focus": "Musikprofilierung, Profil Informationstechnik\nStaatliche Europaschule Berlin (Deutsch/ Spanisch)",
+    "languages": "Englisch, Französisch, Latein, Russisch, Spanisch"
+  },
+  {
+    "title": "Friedrich-Bergius-Schule",
+    "address": "Perelsplatz 6-912159 Berlin",
+    "district": "Tempelhof-Schöneberg",
+    "area": "Friedenau",
+    "schoolNumber": "07K10",
+    "focus": "Mathematisch-naturwissenschaftliches Profil, theaterbetontes Profil",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Fritz-Karsen-Schule",
+    "address": "Onkel-Bräsig-Straße 76-7812359 Berlin",
+    "district": "Neukölln",
+    "area": "Britz",
+    "schoolNumber": "08K06",
+    "focus": "",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Fritz-Kühn-Schule",
+    "address": "Dahmestraße 45 12526 Berlin",
+    "district": "Treptow-Köpenick",
+    "area": "Bohnsdorf",
+    "schoolNumber": "09K03",
+    "focus": "Berufsbetontes Profil, umweltbetontes Profil",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Fritz-Reuter-Schule",
+    "address": "Prendener Straße 2913059 Berlin",
+    "district": "Lichtenberg",
+    "area": "Neu-Hohenschönhausen",
+    "schoolNumber": "11K05",
+    "focus": "",
+    "languages": "Englisch, Französisch, Latein, Russisch"
+  },
+  {
+    "title": "Gail S. Halvorsen Schule",
+    "address": "Im Gehege 614195 Berlin",
+    "district": "Steglitz-Zehlendorf",
+    "area": "Dahlem",
+    "schoolNumber": "06K09",
+    "focus": "11. Klasse zur Vorbereitung auf das Abitur\nKooperation mit dem Hermann-Ehlers-Gymnasium und dem Oberstufenzentrum Louise-Schroeder-Schule für Bürowirtschaft und Verwaltung\nBilinguale Angebote Deutsch/Englisch",
+    "languages": "1. Englisch 2. Französisch oder Spanisch"
+  },
+  {
+    "title": "Gemeinschaftsschule auf dem Campus Rütli",
+    "address": "Rütlistraße 4112045 Berlin",
+    "district": "Neukölln",
+    "area": "Neukölln",
+    "schoolNumber": "08K08",
+    "focus": "Musikprofilierung",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Gemeinschaftsschule Campus Efeuweg",
+    "address": "Efeuweg 3412357 Berlin",
+    "district": "Neukölln",
+    "area": "Gropiusstadt",
+    "schoolNumber": "08K13",
+    "focus": "Mathematisch-naturwissenschaftliches Profil, berufsorientiertes Profil, medienbetontes Profil",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Gemeinschaftsschule im Bergmannkiez",
+    "address": "Gneisenaustraße 710961 Berlin",
+    "district": "Friedrichshain-Kreuzberg",
+    "area": "Kreuzberg",
+    "schoolNumber": "02K04",
+    "focus": "Ehemals Lina-Morgenstern-Schule.Gymnasiale Oberstufe im Verbund mit der Ferdinand-Freiligrath-Schule.",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Georg-Klingenberg-Schule",
+    "address": "Alberichstraße 2412683 Berlin",
+    "district": "Marzahn-Hellersdorf",
+    "area": "Biesdorf",
+    "schoolNumber": "10K06",
+    "focus": "Mathematisch-naturwissenschaftliches Profil, Profil Informationstechnik",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Georg-von-Giesche-Schule",
+    "address": "Hohenstaufenstraße 47-4810779 Berlin",
+    "district": "Tempelhof-Schöneberg",
+    "area": "Schöneberg",
+    "schoolNumber": "07K06",
+    "focus": "Staatliche Europaschule Berlin Deutsch / Französisch",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Georg-Weerth-Schule",
+    "address": "Eckertstraße 1610249 Berlin",
+    "district": "Friedrichshain-Kreuzberg",
+    "area": "Friedrichshain",
+    "schoolNumber": "02K07",
+    "focus": "Medienbetontes Profil",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Gretel-Bergmann-Gemeinschaftsschule",
+    "address": "Liebensteiner Straße 2412687 Berlin",
+    "district": "Marzahn-Hellersdorf",
+    "area": "Marzahn",
+    "schoolNumber": "10K12",
+    "focus": "",
+    "languages": "Englisch, Französisch, Russisch, Spanisch"
+  },
+  {
+    "title": "Grünauer Gemeinschaftsschule",
+    "address": "Walchenseestraße 4012527 Berlin",
+    "district": "Treptow-Köpenick",
+    "area": "Grünau",
+    "schoolNumber": "09K09",
+    "focus": "",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Grüner Campus Malchow",
+    "address": "Malchower Chaussee 213051 Berlin",
+    "district": "Lichtenberg",
+    "area": "Malchow",
+    "schoolNumber": "11K10",
+    "focus": "Begabtenförderung, umweltbetontes Profil",
+    "languages": "Englisch, Französisch, Russisch, Spanisch"
+  },
+  {
+    "title": "Gustav-Freytag-Schule",
+    "address": "Breitkopfstraße 66-8013409 Berlin",
+    "district": "Reinickendorf",
+    "area": "Reinickendorf",
+    "schoolNumber": "12K05",
+    "focus": "",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Gustav-Heinemann-Schule",
+    "address": "Waldsassener Straße 6212279 Berlin",
+    "district": "Tempelhof-Schöneberg",
+    "area": "Marienfelde",
+    "schoolNumber": "07K03",
+    "focus": "Mathematisch-naturwissenschaftliches Profil, musikbetontes Profil\nAb Jahrgangsstufe 5 beginnende Züge\nBilinguale Angebote Deutsch / Englisch",
+    "languages": "Englisch, Französisch, Latein, Japanisch"
+  },
+  {
+    "title": "Gustav-Langenscheidt-Schule",
+    "address": "Belziger Straße 43-5110823 Berlin",
+    "district": "Tempelhof-Schöneberg",
+    "area": "Schöneberg",
+    "schoolNumber": "07K09",
+    "focus": "Berufsorientiertes Profil",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Gustave-Eiffel-Schule",
+    "address": "Hanns-Eisler-Straße 78-8010409 Berlin",
+    "district": "Pankow",
+    "area": "Prenzlauer Berg",
+    "schoolNumber": "03K04",
+    "focus": "Kunstbetontes Profil, Profil Wirtschaft-Arbeit-Technik (WAT), theaterbetontes Profil, berufsorientiertes Profil",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Gutenberg-Schule",
+    "address": "Sandinostraße 1013055 Berlin",
+    "district": "Lichtenberg",
+    "area": "Alt-Hohenschönhausen",
+    "schoolNumber": "11K04",
+    "focus": "Mathematisch-naturwissenschaftliches Profil, sprachbetontes Profil, theaterbetontes Profil, UNESCO-Projekte",
+    "languages": "Englisch, Französisch, Latein, Russisch, Spanisch"
+  },
+  {
+    "title": "Hagenbeck-Schule",
+    "address": "Gustav-Adolf-Straße 6013086 Berlin",
+    "district": "Pankow",
+    "area": "Weißensee",
+    "schoolNumber": "03K08",
+    "focus": "Berufsbetontes Profil, mathematisch-naturwissenschaftliches Profil, Sportprofilierung\nSchulzoo und Schulbauernhof",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Hans-Grade-Schule",
+    "address": "Heubergerweg 3712487 Berlin",
+    "district": "Treptow-Köpenick",
+    "area": "Johannisthal",
+    "schoolNumber": "09K06",
+    "focus": "Profil Informationstechnik, Sportprofilierung",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Hector-Peterson-Schule",
+    "address": "Tempelhofer Ufer 1510963 Berlin",
+    "district": "Friedrichshain-Kreuzberg",
+    "area": "Kreuzberg",
+    "schoolNumber": "02K03",
+    "focus": "",
+    "languages": "Englisch, Französisch, Türkisch"
+  },
+  {
+    "title": "Hedwig-Dohm-Schule",
+    "address": "Stephanstraße 2710559 Berlin",
+    "district": "Mitte",
+    "area": "Moabit",
+    "schoolNumber": "01K09",
+    "focus": "",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Heinrich-Böll-Oberschule",
+    "address": "Am Forstacker 9-1113587 Berlin",
+    "district": "Spandau",
+    "area": "Hakenfelde",
+    "schoolNumber": "05K04",
+    "focus": "Bilinguale Angebote Deutsch/Englisch\nSportprofilierung",
+    "languages": "Englisch, Französisch, Latein"
+  },
+  {
+    "title": "Heinrich-Mann-Schule",
+    "address": "Gerlinger Straße 2212353 Berlin",
+    "district": "Neukölln",
+    "area": "Buckow",
+    "schoolNumber": "08K04",
+    "focus": "",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Heinrich-von-Stephan-Gemeinschaftsschule",
+    "address": "Neues Ufer 610553 Berlin",
+    "district": "Mitte",
+    "area": "Moabit",
+    "schoolNumber": "01K04",
+    "focus": "",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Heinz-Brandt-Schule",
+    "address": "Langhansstraße 12013086 Berlin",
+    "district": "Pankow",
+    "area": "Weißensee",
+    "schoolNumber": "03K05",
+    "focus": "Gymnasiale Oberstufe im Verbund mit der Max-Bill-Schule und der Reinhold-Burger-Schule.",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Spanisch"
+  },
+  {
+    "title": "Helene-Lange-Schule",
+    "address": "Lauenburger Straße 11012169 Berlin",
+    "district": "Steglitz-Zehlendorf",
+    "area": "Steglitz",
+    "schoolNumber": "06K10",
+    "focus": "11. Klasse zur Vorbereitung auf das Abitur / Kooperation mit dem Hermann-Ehlers-Gymnasium",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Hemingway-Schule",
+    "address": "Gartenstraße 10-1710115 Berlin",
+    "district": "Mitte",
+    "area": "Mitte",
+    "schoolNumber": "01K07",
+    "focus": "Mathematisch-naturwissenschaftliches Profil, Profil Informationstechnik",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Herbert-Hoover-Schule",
+    "address": "Pankstraße 18-1913357 Berlin",
+    "district": "Mitte",
+    "area": "Gesundbrunnen",
+    "schoolNumber": "01K06",
+    "focus": "Berufsbetontes Profil, sprachbetontes Profil, theaterbetontes Profil\nSchwerpunktschule für Deutsch und Darstellendes Spiel",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Hermann-von-Helmholtz-Schule",
+    "address": "Wutzkyallee 6812353 Berlin",
+    "district": "Neukölln",
+    "area": "Gropiusstadt",
+    "schoolNumber": "08K02",
+    "focus": "Mit Grundschulteil (Klassen 1-6)\nBerufsbetontes Profil, mathematisch-naturwissenschaftliches Profil",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Hufeland-Schule",
+    "address": "Walter-Friedrich-Straße 16-1813125 Berlin",
+    "district": "Pankow",
+    "area": "Buch",
+    "schoolNumber": "03K10",
+    "focus": "Mathematisch-naturwissenschaftliches Profil",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Hugo-Gaudig-Schule",
+    "address": "Boelckestraße 58-6012101 Berlin",
+    "district": "Tempelhof-Schöneberg",
+    "area": "Tempelhof",
+    "schoolNumber": "07K11",
+    "focus": "Profil Informationstechnik\nBilinguale Angebote Deutsch/Englisch",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Integrierte Sekundarschule Mahlsdorf",
+    "address": "An der Schule 41-5912623 Berlin",
+    "district": "Marzahn-Hellersdorf",
+    "area": "Mahlsdorf",
+    "schoolNumber": "10K13",
+    "focus": "Neubau im Rahmen der Berliner Schulbauoffensive. Eröffnet zum Schuljahr 2019/20 (Bilder aus der Bauphase).",
+    "languages": "Englisch, Spanisch"
+  },
+  {
+    "title": "Isaac-Newton-Schule",
+    "address": "Zeppelinstraße 76-8012459 Berlin",
+    "district": "Treptow-Köpenick",
+    "area": "Oberschöneweide",
+    "schoolNumber": "09K04",
+    "focus": "Kunstbetontes Profil, musikbetontes Profil, sprachbetontes Profil",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Janusz-Korczak-Schule",
+    "address": "Dolomitenstraße 9413187 Berlin",
+    "district": "Pankow",
+    "area": "Pankow",
+    "schoolNumber": "03K09",
+    "focus": "Mathematisch-naturwissenschaftliches Profil, Profil Informationstechnik, Sportprofilierung",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Jean-Krämer-Schule",
+    "address": "Alt-Wittenau 8-1213437 Berlin",
+    "district": "Reinickendorf",
+    "area": "Wittenau",
+    "schoolNumber": "12K07",
+    "focus": "Mathematisch-naturwissenschaftliches Profil, sprachbetontes Profi, Profil Wirtschaft-Arbeit-Technik (WAT)\nBilinguale Angebote Deutsch/Englisch",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Jean-Piaget-Schule",
+    "address": "Mittenwalder Straße 512629 Berlin",
+    "district": "Marzahn-Hellersdorf",
+    "area": "Hellersdorf",
+    "schoolNumber": "10K05",
+    "focus": "",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Johann-Julius-Hecker-Schule",
+    "address": "Hohenwalder Straße 212689 Berlin",
+    "district": "Marzahn-Hellersdorf",
+    "area": "Marzahn",
+    "schoolNumber": "10K08",
+    "focus": "Berufsorientiertes Profil, sportbetontes Profil",
+    "languages": "Englisch, Französisch, Russisch"
+  },
+  {
+    "title": "Johanna-Eck-Schule",
+    "address": "Ringstraße 103-10612105 Berlin",
+    "district": "Tempelhof-Schöneberg",
+    "area": "Tempelhof",
+    "schoolNumber": "07K07",
+    "focus": "",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "John-F.-Kennedy-Schule",
+    "address": "Teltower Damm 87-9314167 Berlin",
+    "district": "Steglitz-Zehlendorf",
+    "area": "Zehlendorf",
+    "schoolNumber": "06K01",
+    "focus": "Unterrichtssprachen sind Englisch und Deutsch\nErwerb des Abiturs und / oder des amerikanischen High School Diploma\nAbweichende Ferienordnung",
+    "languages": "Englisch, Französisch, Latein, Spanisch"
+  },
+  {
+    "title": "Julius-Leber-Schule",
+    "address": "Treskowstraße 26-3113507 Berlin",
+    "district": "Reinickendorf",
+    "area": "Tegel",
+    "schoolNumber": "12K01",
+    "focus": "Schule mit Sportbetonung",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Spanisch"
+  },
+  {
+    "title": "Kepler-Schule",
+    "address": "Zwillingestraße 2112057 Berlin",
+    "district": "Neukölln",
+    "area": "Neukölln",
+    "schoolNumber": "08K12",
+    "focus": "",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Kerschensteiner-Schule",
+    "address": "Golliner Straße 212689 Berlin",
+    "district": "Marzahn-Hellersdorf",
+    "area": "Marzahn",
+    "schoolNumber": "10K03",
+    "focus": "Sport und Berufsorientierung",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Konrad-Duden-Schule",
+    "address": "Rolandstraße 3513156 Berlin",
+    "district": "Pankow",
+    "area": "Niederschönhausen",
+    "schoolNumber": "03K03",
+    "focus": "Berufsbetontes Profil, mathematisch-naturwissenschaftliches Profil, Profil Informationstechnik, Sportprofilierung",
+    "languages": "Englisch, Französisch, Spanisch, Chinesisch"
+  },
+  {
+    "title": "Konrad-Wachsmann-Schule",
+    "address": "Geithainer Straße 1212627 Berlin",
+    "district": "Marzahn-Hellersdorf",
+    "area": "Hellersdorf",
+    "schoolNumber": "10K09",
+    "focus": "Berufsorientiertes Profil",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Kopernikus-Schule",
+    "address": "Lepsiusstraße 24-2812163 Berlin",
+    "district": "Steglitz-Zehlendorf",
+    "area": "Steglitz",
+    "schoolNumber": "06K03",
+    "focus": "Mathematisch-naturwissenschaftliches Profil, sprachbetontes Profil",
+    "languages": "Englisch, Französisch, Latein, Spanisch"
+  },
+  {
+    "title": "Kurt-Schwitters-Schule",
+    "address": "Greifswalder Straße 2510405 Berlin",
+    "district": "Pankow",
+    "area": "Prenzlauer Berg",
+    "schoolNumber": "03K01",
+    "focus": "Staatliche Europaschule Berlin Deutsch/Portugiesisch\nKunstprofilierung, theaterbetontes Profil\nMontessori-orientiert",
+    "languages": "Englisch, Französisch, Spanisch, Portugiesisch"
+  },
+  {
+    "title": "Kurt-Tucholsky-Schule",
+    "address": "Neumannstraße 9-1113189 Berlin",
+    "district": "Pankow",
+    "area": "Pankow",
+    "schoolNumber": "03K02",
+    "focus": "Kunstprofilierung, theaterbetontes Profil",
+    "languages": "Englisch, Französisch, Latein, Russisch"
+  },
+  {
+    "title": "Marcana-Schule",
+    "address": "Flämingstraße 16-1812689 Berlin",
+    "district": "Marzahn-Hellersdorf",
+    "area": "Marzahn",
+    "schoolNumber": "10K11",
+    "focus": "Aufbauende Gemeinschaftsschule - Gymnasiale Oberstufe geplant.",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Spanisch"
+  },
+  {
+    "title": "Martin-Buber-Oberschule",
+    "address": "Im Spektefeld 3313589 Berlin",
+    "district": "Spandau",
+    "area": "Falkenhagener Feld",
+    "schoolNumber": "05K01",
+    "focus": "Kunstprofilierung, mathematisch-naturwissenschaftliches Profil, Musikprofilierung, Sportprofilierung, sprachbetontes Profil, theaterbetontes Profil",
+    "languages": "Englisch, Französisch, Latein, Spanisch"
+  },
+  {
+    "title": "Max-Beckmann-Schule",
+    "address": "Auguste-Viktoria-Allee 3713403 Berlin",
+    "district": "Reinickendorf",
+    "area": "Reinickendorf",
+    "schoolNumber": "12K03",
+    "focus": "Kunstprofilierung, sprachbetontes Profil, theaterbetontes Profil\nBilinguale Angebote Deutsch/Englisch",
+    "languages": "Englisch, Französisch, Latein, Spanisch"
+  },
+  {
+    "title": "Max-von-Laue-Schule",
+    "address": "Dürerstraße 2712203 Berlin",
+    "district": "Steglitz-Zehlendorf",
+    "area": "Lichterfelde",
+    "schoolNumber": "06K08",
+    "focus": "Mathematisch-naturwissenschaftliches Profil, Profil Informationstechnik\nStaatliche Europa-Schule Berlin Deutsch/Griechisch",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch, 2. Fremdsprache Spanisch, 3. Fremdsprache Spanisch"
+  },
+  {
+    "title": "Merian-Schule",
+    "address": "Hoernlestraße 8012555 Berlin",
+    "district": "Treptow-Köpenick",
+    "area": "Köpenick",
+    "schoolNumber": "09K01",
+    "focus": "Bilinguale Angebote Deutsch / Englisch\nSportprofilierung",
+    "languages": "Englisch, Französisch, Russisch"
+  },
+  {
+    "title": "Mildred-Harnack-Schule",
+    "address": "Schulze-Boysen-Straße 1210365 Berlin",
+    "district": "Lichtenberg",
+    "area": "Lichtenberg",
+    "schoolNumber": "11K02",
+    "focus": "Staatliche Europaschule Berlin (Deutsch / Russisch)\nBilinguale Angebote Deutsch / Englisch",
+    "languages": "Englisch, Französisch, Latein, Spanisch, Russisch"
+  },
+  {
+    "title": "Nelson-Mandela-Schule",
+    "address": "Pfalzburger Straße 3010719 Berlin",
+    "district": "Charlottenburg-Wilmersdorf",
+    "area": "Wilmersdorf",
+    "schoolNumber": "04K04",
+    "focus": "Nelson Mandela School – State International School Berlin\nInternationale Schule mit Grundschulteil - Gesondertes Anmeldeverfahren\nBilinguale Angebote Deutsch/Englisch",
+    "languages": "Englisch, Französisch"
+  },
+  {
+    "title": "Otto-Hahn-Schule",
+    "address": "Buschkrugallee 6312359 Berlin",
+    "district": "Neukölln",
+    "area": "Britz",
+    "schoolNumber": "08K03",
+    "focus": "Sportbetontes Profil mit den Schwerpunkten Fußball, Hockey und Schwimmen",
+    "languages": "Englisch, Französisch, Türkisch"
+  },
+  {
+    "title": "Otto-von-Guericke-Schule",
+    "address": "Eisenzahnstraße 47-4810709 Berlin",
+    "district": "Charlottenburg-Wilmersdorf",
+    "area": "Wilmersdorf",
+    "schoolNumber": "04K09",
+    "focus": "Musischer Schwerpunkt (Kunst, Musik, Tanz und Darstellendes Spiel).",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch, 2. Fremdsprache Spanisch"
+  },
+  {
+    "title": "Paul-Löbe-Schule",
+    "address": "Lindauer Allee 23-2513407 Berlin",
+    "district": "Reinickendorf",
+    "area": "Reinickendorf",
+    "schoolNumber": "12K04",
+    "focus": "",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Spanisch"
+  },
+  {
+    "title": "Paul-Schmidt-Schule",
+    "address": "Malchower Weg 5413053 Berlin",
+    "district": "Lichtenberg",
+    "area": "Alt-Hohenschönhausen",
+    "schoolNumber": "11K11",
+    "focus": "Besondere Organisationsform des Dualen Lernens: Produktives Lernen",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Paul-und-Charlotte-Kniese-Schule",
+    "address": "Erich-Kurz-Straße 6-1010319 Berlin",
+    "district": "Lichtenberg",
+    "area": "Friedrichsfelde",
+    "schoolNumber": "11K12",
+    "focus": "Inklusive Schwerpunktschule, Kooperation mit dem Förderzentrum Sehen/Geistige Entwicklung",
+    "languages": "Englisch, Französisch"
+  },
+  {
+    "title": "Paula-Fürst-Schule",
+    "address": "Sybelstraße 20-2110629 Berlin",
+    "district": "Charlottenburg-Wilmersdorf",
+    "area": "Charlottenburg",
+    "schoolNumber": "04K05",
+    "focus": "Einschulung in der 1. Klasse / Nur begrenzte Aufnahme in Jahrgangsstufe 7 und 11.",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Peter-Ustinov-Schule",
+    "address": "Kuno-Fischer-Straße 22-2614057 Berlin",
+    "district": "Charlottenburg-Wilmersdorf",
+    "area": "Charlottenburg",
+    "schoolNumber": "04K08",
+    "focus": "Sprachbetontes Profil, bilinguale Angebote Deutsch/Englisch\nStaatliche Europaschule Berlin (Deutsch/Englisch)",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Philipp-Reis-Schule",
+    "address": "Werneuchener Straße 1513055 Berlin",
+    "district": "Lichtenberg",
+    "area": "Alt-Hohenschönhausen",
+    "schoolNumber": "11K09",
+    "focus": "Modellschule im Projekt Pädagogische Schulentwicklung (PSE)",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Refik-Veseli-Schule",
+    "address": "Skalitzer Straße 5510997 Berlin",
+    "district": "Friedrichshain-Kreuzberg",
+    "area": "Kreuzberg",
+    "schoolNumber": "02K08",
+    "focus": "",
+    "languages": "Englisch, Spanisch, Französisch, Türkisch"
+  },
+  {
+    "title": "Reinhold-Burger-Schule",
+    "address": "Neue Schönholzer Straße 3213187 Berlin",
+    "district": "Pankow",
+    "area": "Pankow",
+    "schoolNumber": "03K06",
+    "focus": "Gymnasiale Oberstufe im Verbund mit der Max-Bill-Schule und der  Heinz-Brandt-Schule.Gesundheitsbetontes Profil",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Spanisch"
+  },
+  {
+    "title": "Robert-Jungk-Schule",
+    "address": "Sächsische Straße 5810707 Berlin",
+    "district": "Charlottenburg-Wilmersdorf",
+    "area": "Wilmersdorf",
+    "schoolNumber": "04K03",
+    "focus": "Profil Informationstechnik\nStaatliche Europaschule Berlin Deutsch/Polnisch",
+    "languages": "Englisch, Französisch, Spanisch, Polnisch"
+  },
+  {
+    "title": "Röntgen-Schule",
+    "address": "Wildenbruchstraße 5312435 Berlin",
+    "district": "Treptow-Köpenick",
+    "area": "Alt-Treptow",
+    "schoolNumber": "08K09",
+    "focus": "Der Schulstandort befindet sich auf Treptower Gebiet, Schulträger ist jedoch das Bezirksamt Neukölln.\nGymnasiale Oberstufe in Verbund mit der Sophie-Brahe-Schule.\nProfil Informationstechnik.",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Rudolf-Virchow-Schule",
+    "address": "Glambecker Ring 9012679 Berlin",
+    "district": "Marzahn-Hellersdorf",
+    "area": "Marzahn",
+    "schoolNumber": "10K01",
+    "focus": "Bilinguale Angebote Deutsch/Englisch",
+    "languages": "Englisch, Französisch, Russisch"
+  },
+  {
+    "title": "Schul- und Leistungssportzentrum (SLZB)",
+    "address": "Fritz-Lesch-Straße 3513053 Berlin",
+    "district": "Lichtenberg",
+    "area": "Alt-Hohenschönhausen",
+    "schoolNumber": "11A07",
+    "focus": "Eliteschule des Sports, Internatsbetrieb, Leistungssportprofilierung.",
+    "languages": "Englisch, Französisch, Latein, Russisch"
+  },
+  {
+    "title": "Schule am Berlinickeplatz",
+    "address": "Alt-Tempelhof 53-5712103 Berlin",
+    "district": "Tempelhof-Schöneberg",
+    "area": "Tempelhof",
+    "schoolNumber": "07K13",
+    "focus": "Abendlehrgänge zum Erwerb der Berufsbildungsreife",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Schule am Königstor",
+    "address": "Weinstraße 3 10249 Berlin",
+    "district": "Friedrichshain-Kreuzberg",
+    "area": "Friedrichshain",
+    "schoolNumber": "02K05",
+    "focus": "Inklusive Schwerpunktschule",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Spanisch"
+  },
+  {
+    "title": "Schule am Rathaus",
+    "address": "Rathausstraße 810367 Berlin",
+    "district": "Lichtenberg",
+    "area": "Lichtenberg",
+    "schoolNumber": "11K06",
+    "focus": "",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Schule am Schillerpark",
+    "address": "Ofener Straße 613349 Berlin",
+    "district": "Mitte",
+    "area": "Wedding",
+    "schoolNumber": "01K08",
+    "focus": "",
+    "languages": "Englisch, Französisch"
+  },
+  {
+    "title": "Schule am Schloss",
+    "address": "Schloßstraße 55A14059 Berlin",
+    "district": "Charlottenburg-Wilmersdorf",
+    "area": "Charlottenburg",
+    "schoolNumber": "04K06",
+    "focus": "Integration von Schülerinnen und Schülern mit sonderpädagogischem Förderbedarf - Einrichtung unterschiedlicher Schwerpunktklassen in Jahrgangsstufe 7 (Musik, Sport, Naturwissenschaften, Sprache).",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Spanisch"
+  },
+  {
+    "title": "Schule am Staakener Kleeblatt",
+    "address": "Brunsbütteler Damm 431-43713591 Berlin",
+    "district": "Spandau",
+    "area": "Staaken",
+    "schoolNumber": "05K09",
+    "focus": "Gymnasiale Oberstufe im Verbund mit der Schule an der Jungfernheide, der B.-Traven-Gemeinschaftsschule und der Schule an der Haveldüne\nSchule mit Mint-Profil",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Schule am Tierpark",
+    "address": "Sewanstraße 22310319 Berlin",
+    "district": "Lichtenberg",
+    "area": "Friedrichsfelde",
+    "schoolNumber": "11K08",
+    "focus": "",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch, 2. Fremdsprache Russisch, 3. Fremdsprache Spanisch"
+  },
+  {
+    "title": "Schule an der Dahme",
+    "address": "Glienicker Straße 24-3012557 Berlin",
+    "district": "Treptow-Köpenick",
+    "area": "Köpenick",
+    "schoolNumber": "09K08",
+    "focus": "Schwerpunkte in den Bereichen Produktives Lernen und Bildende Kunst",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Schule an der Haveldüne",
+    "address": "Jaczostraße 53-6713595 Berlin",
+    "district": "Spandau",
+    "area": "Wilhelmstadt",
+    "schoolNumber": "05K08",
+    "focus": "Gymnasiale Oberstufe im Verbund mit der Schule an der Jungfernheide, der B.-Traven-Gemeinschaftsschule und der Schule am Staakener Kleeblatt\nMusikbetontes Profil",
+    "languages": "Englisch, Russisch, Spanisch"
+  },
+  {
+    "title": "Schule an der Jungfernheide",
+    "address": "Lenther Steig 1-313629 Berlin",
+    "district": "Spandau",
+    "area": "Siemensstadt",
+    "schoolNumber": "05K07",
+    "focus": "Gymnasiale Oberstufe im Verbund mit der Schule am Staakener Kleeblatt, der B.-Traven-Gemeinschaftsschule und der Schule an der Haveldüne\nBerufsbetontes Profil",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Sekundarschule Storkower Straße",
+    "address": "Storkower Straße 209b10369 Berlin",
+    "district": "Lichtenberg",
+    "area": "Fennpfuhl",
+    "schoolNumber": "11K13",
+    "focus": "Neugründung zum Schuljahr 2022/23 (Bilder aus der Bauphase)",
+    "languages": "Englisch"
+  },
+  {
+    "title": "Sekundarschule Wilmersdorf",
+    "address": "Kranzer Straße 314199 Berlin",
+    "district": "Charlottenburg-Wilmersdorf",
+    "area": "Schmargendorf",
+    "schoolNumber": "04K07",
+    "focus": "",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Solling-Schule",
+    "address": "Alt-Marienfelde 5212277 Berlin",
+    "district": "Tempelhof-Schöneberg",
+    "area": "Marienfelde",
+    "schoolNumber": "07K05",
+    "focus": "Modellschule Pädagogische Schulentwicklung",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Sophie-Brahe-Gemeinschaftsschule",
+    "address": "Am Plänterwald 17-2312435 Berlin",
+    "district": "Treptow-Köpenick",
+    "area": "Plänterwald",
+    "schoolNumber": "09K07",
+    "focus": "",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Sophie-Scholl-Schule",
+    "address": "Elßholzstraße 34-3710781 Berlin",
+    "district": "Tempelhof-Schöneberg",
+    "area": "Schöneberg",
+    "schoolNumber": "07K01",
+    "focus": "Musikbetontes Profil, kunstbetontes Profil, mathematisch-naturwissenschaftliches Profil, Profil Wirtschaft-Arbeit-Technik (WAT)\nStaatliche Europaschule Berlin (Deutsch / Französisch)\nGleichzeitiger Erwerb von Abitur und Baccalauréat",
+    "languages": "Englisch, Französisch, Spanisch, Latein"
+  },
+  {
+    "title": "Sportschule im Olympiapark",
+    "address": "Prinz-Friedrich-Karl-Weg 114053 Berlin",
+    "district": "Charlottenburg-Wilmersdorf",
+    "area": "Westend",
+    "schoolNumber": "04A08",
+    "focus": "Sportbetonte Schule - Eliteschule des Sports (Aufnahme mit Empfehlung des Landessportbundes Berlin). Profilsportarten: Fußball, Leichtathletik, Moderner Fünfkampf, Rudern, Schwimmen, Wasserball, Hockey.",
+    "languages": "S1 Englisch/Französisch, S4 Englisch/Spanisch"
+  },
+  {
+    "title": "Tesla-Schule",
+    "address": "Rudi-Arndt-Straße 1810407 Berlin",
+    "district": "Pankow",
+    "area": "Prenzlauer Berg",
+    "schoolNumber": "03K07",
+    "focus": "Berufsbetontes Profil, naturwissenschaftlich-technische Ausrichtung",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch oder Spanisch"
+  },
+  {
+    "title": "Theodor-Haubach-Schule",
+    "address": "Grimmstraße 9-1112305 Berlin",
+    "district": "Tempelhof-Schöneberg",
+    "area": "Lichtenrade",
+    "schoolNumber": "07K04",
+    "focus": "Berufsbetontes Profil, Profil Informationstechnik\nBilinguale Klasse Deutsch/Englisch",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Theodor-Heuss-Gemeinschaftsschule",
+    "address": "Quitzowstraße 14110559 Berlin",
+    "district": "Mitte",
+    "area": "Moabit",
+    "schoolNumber": "01K10",
+    "focus": "",
+    "languages": "Englisch, Französisch, Latein, Türkisch"
+  },
+  {
+    "title": "Vincent-van-Gogh-Schule",
+    "address": "Wustrower Straße 2613051 Berlin",
+    "district": "Lichtenberg",
+    "area": "Neu-Hohenschönhausen",
+    "schoolNumber": "11K07",
+    "focus": "",
+    "languages": "Englisch, Französisch, Russisch, Spanisch"
+  },
+  {
+    "title": "Walter-Gropius-Schule",
+    "address": "Fritz-Erler-Allee 8612351 Berlin",
+    "district": "Neukölln",
+    "area": "Gropiusstadt",
+    "schoolNumber": "08K01",
+    "focus": "Kunstprofilierung, mathematisch-naturwissenschaftliches Profil, medienbetontes Profil, sprachbetontes Profil\nBilinguale Angebote Deutsch/Englisch",
+    "languages": "Englisch, Französisch, Latein"
+  },
+  {
+    "title": "Wangari-Maathai-Internationale-Schule",
+    "address": "Babelsberger Straße 2410715 Berlin",
+    "district": "Charlottenburg-Wilmersdorf",
+    "area": "Wilmersdorf",
+    "schoolNumber": "04K10",
+    "focus": "Internationale Schule im Aufbau\nBilinguale Angebote Deutsch / Englisch",
+    "languages": "Englisch, Spanisch, Französisch"
+  },
+  {
+    "title": "Wilhelm-Bölsche-Schule",
+    "address": "Aßmannstraße 1112587 Berlin",
+    "district": "Treptow-Köpenick",
+    "area": "Friedrichshagen",
+    "schoolNumber": "09K05",
+    "focus": "Profil Wirtschaft-Arbeit-Technik (WAT), berufsorientiertes Profil",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Wilhelm-von-Humboldt-Schule ",
+    "address": "Erich-Weinert-Straße 7010439 Berlin",
+    "district": "Pankow",
+    "area": "Prenzlauer Berg",
+    "schoolNumber": "03K11",
+    "focus": "Künstlerisch-Kulturelle Ausrichtung",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Willy-Brandt-Schule",
+    "address": "Grüntaler Straße 513357 Berlin",
+    "district": "Mitte",
+    "area": "Gesundbrunnen",
+    "schoolNumber": "01K01",
+    "focus": "",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Französisch"
+  },
+  {
+    "title": "Wilma-Rudolph-Schule",
+    "address": "Am Hegewinkel 2A14169 Berlin",
+    "district": "Steglitz-Zehlendorf",
+    "area": "Dahlem",
+    "schoolNumber": "06K02",
+    "focus": "Bilingualer Zug (Englisch / Gesellschaftswissenschaften) und sportbetonter Zug",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Wolfgang-Amadeus-Mozart-Schule",
+    "address": "Cottbusser Straße 2312627 Berlin",
+    "district": "Marzahn-Hellersdorf",
+    "area": "Hellersdorf",
+    "schoolNumber": "10K10",
+    "focus": "Musikprofilierung",
+    "languages": "1. Fremdsprache Englisch, 2. Fremdsprache Spanisch"
+  },
+  {
+    "title": "Wolfgang-Borchert-Schule",
+    "address": "Blumenstraße 1313585 Berlin",
+    "district": "Spandau",
+    "area": "Spandau",
+    "schoolNumber": "05K06",
+    "focus": "Berufliche Orientierung, MINT, Sprachbildung",
+    "languages": "Englisch, Französisch, Spanisch"
+  },
+  {
+    "title": "Zuckmayer-Schule",
+    "address": "Kopfstraße 5512053 Berlin",
+    "district": "Neukölln",
+    "area": "Neukölln",
+    "schoolNumber": "08K10",
+    "focus": "",
+    "languages": "Englisch, Französisch, Türkisch"
+  },
+  {
+    "title": "",
+    "address": "",
+    "district": "",
+    "area": "",
+    "schoolNumber": "",
+    "focus": "",
+    "languages": ""
+  },
+  {
+    "title": "",
+    "address": "",
+    "district": "",
+    "area": "",
+    "schoolNumber": "",
+    "focus": "",
+    "languages": ""
+  },
+  {
+    "title": "",
+    "address": "",
+    "district": "",
+    "area": "",
+    "schoolNumber": "",
+    "focus": "",
+    "languages": ""
+  },
+  {
+    "title": "",
+    "address": "",
+    "district": "",
+    "area": "",
+    "schoolNumber": "",
+    "focus": "",
+    "languages": ""
+  },
+  {
+    "title": "",
+    "address": "",
+    "district": "",
+    "area": "",
+    "schoolNumber": "",
+    "focus": "",
+    "languages": ""
+  },
+  {
+    "title": "",
+    "address": "",
+    "district": "",
+    "area": "",
+    "schoolNumber": "",
+    "focus": "",
+    "languages": ""
+  },
+  {
+    "title": "",
+    "address": "",
+    "district": "",
+    "area": "",
+    "schoolNumber": "",
+    "focus": "",
+    "languages": ""
+  },
+  {
+    "title": "",
+    "address": "",
+    "district": "",
+    "area": "",
+    "schoolNumber": "",
+    "focus": "",
+    "languages": ""
+  }
+]
