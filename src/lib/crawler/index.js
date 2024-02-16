@@ -19,7 +19,98 @@ function fetchHTML(url) {
   })
 }
 
-function extractHighSchoolDetails(data, fromUrl) {}
+function extractHighSchoolDetails(data, fromUrl) {
+  const $ = cheerio.load(data)
+
+  const title = $(".field-name-schule .field-item h2").text()
+  if (title === "") {
+    return
+  }
+  const focus = $(".field-name-schule .field-item p")
+    .eq(1)
+    .text()
+    .trim()
+    .replace(/^\((.*)\)$/, "$1")
+  const address = $(".field-name-schule .field-item p")
+    .eq(2)
+    .contents()
+    .map((index, element) => {
+      // Check if the node is a text node
+      if (element.nodeType === 3) {
+        return $(element).text().trim() // Trim whitespace
+      }
+    })
+    .get()
+    .join(" ")
+  const district = $(
+    '.field-name-schule .field-item p strong:contains("Bezirk")'
+  )
+    .parent()
+    .find("a")
+    .text()
+  // TODO: fix the area with links instead of text
+  const area = $('.field-name-schule .field-item p strong:contains("Ortsteil")')
+    .parent()
+    .contents()
+    .filter(function () {
+      return this.type === "text"
+    })
+    .eq(1)
+    .text()
+    .trim()
+  const schoolNumber = $(
+    '.field-name-schule .field-item p strong:contains("Schulnummer")'
+  )
+    .parent()
+    .contents()
+    .filter(function () {
+      return this.type === "text"
+    })
+    .eq(2)
+    .text()
+    .trim()
+
+  const students = $(
+    '.field-name-schule .field-item p strong:contains("Schüler")'
+  )
+    .parent()
+    .contents()
+    .filter(function () {
+      return this.type === "text"
+    })
+    .eq(3)
+    .text()
+    .trim()
+    .replace(/\/$/, "")
+    .trim()
+
+  const teachers = $(
+    '.field-name-schule .field-item p strong:contains("Lehrer")'
+  )
+    .parent()
+    .contents()
+    .filter(function () {
+      return this.type === "text"
+    })
+    .eq(4)
+    .text()
+    .trim()
+
+  return {
+    fromUrl: fromUrl,
+    title: title,
+    address: address,
+    district: district,
+    area: area,
+    schoolNumber: schoolNumber,
+    focus: focus,
+    students: students,
+    teachers: teachers,
+    // languages: languages,
+    // advancedCourses: advancedCourses,
+    // hompage: homepage,
+  }
+}
 
 function extractSecondarySchoolDetails(data, fromUrl) {
   const $ = cheerio.load(data)
@@ -30,7 +121,17 @@ function extractSecondarySchoolDetails(data, fromUrl) {
   }
 
   // first p is the address
-  const address = $(".field-name-toptext-schule .field-item p").first().text()
+  const address = $(".field-name-toptext-schule .field-item p")
+    .first()
+    .contents()
+    .map((index, element) => {
+      // Check if the node is a text node
+      if (element.nodeType === 3) {
+        return $(element).text().trim() // Trim whitespace
+      }
+    })
+    .get()
+    .join(" ")
   const district = $(
     '.field-name-toptext-schule .field-item p strong:contains("Bezirk")'
   )
@@ -117,8 +218,7 @@ async function crawl(url, type) {
   // If the list is not empty, crawl the details
   const listWithDetails = []
   if (links.length > 0) {
-    // links.length
-    for (let i = 0; i < 1; i++) {
+    for (let i = 0; i < links.length; i++) {
       const details = await fetchHTML(links[i])
         .then((data) => {
           if (type === SECONDARY_SCHOOLS)
@@ -135,8 +235,6 @@ async function crawl(url, type) {
     }
   }
 
-  console.log(listWithDetails)
-
   return listWithDetails
 }
 
@@ -146,29 +244,36 @@ async function crawlAllSchools() {
     highSchools: [],
     timestamp: new Date().toISOString(),
   }
-  const secondarySchools = await crawl(
+  allSchools.secondarySchools = await crawl(
     "https://www.sekundarschulen-berlin.de/schulliste",
     SECONDARY_SCHOOLS
   )
-  const highSchools = await crawl(
+
+  allSchools.highSchools = await crawl(
     "https://www.gymnasium-berlin.net/schulliste",
     HIGH_SCHOOLS
   )
 
-  // If the list is not empty, write the JSON to a file
-  // if (secondarySchools.length > 0) {
-  //   allSchools.secondarySchools = secondarySchools
-  //   // Convert the JSON object to a string
-  //   const jsonString = JSON.stringify(allSchools, null, 2)
+  // Convert the JSON object to a string
+  const jsonString = JSON.stringify(allSchools, null, 2)
 
-  //   // Write the JSON string to a file
-  //   fs.writeFileSync("output.json", jsonString)
-  // }
+  // Write the JSON string to a file
+  fs.writeFileSync("output.json", jsonString)
 }
 
-// crawlDetails(
+// extractSecondarySchoolDetails(
 //   "https://www.sekundarschulen-berlin.de/14-integrierte-sekundarschule"
 // )
 
-// crawlDetails("https://www.sekundarschulen-berlin.de/albrecht-haushofer-schule")
+// fetchHTML("https://www.gymnasium-berlin.net/albert-einstein-gymnasium").then(
+//   (data) => {
+//     console.log(
+//       extractHighSchoolDetails(
+//         data,
+//         "https://www.gymnasium-berlin.net/albert-einstein-gymnasium"
+//       )
+//     )
+//   }
+// )
+
 crawlAllSchools()
