@@ -1,0 +1,104 @@
+[
+  {
+    "fromUrl": "https://www.sekundarschulen-berlin.de/14-integrierte-sekundarschule",
+    "title": "14. Integrierte Sekundarschule",
+    "address": "Wartiner Straße 1-3 13057 Berlin",
+    "district": "Lichtenberg",
+    "area": "Neu-Hohenschönhausen",
+    "schoolNumber": "11K14",
+    "focus": "Neugründung zum Schuljahr 2022/23 (Bilder aus der Bauphase)",
+    "languages": "Englisch, Französisch, Latein, Russisch, Spanisch",
+    "geoData": {
+      "address_components": [
+        {
+          "long_name": "1-3",
+          "short_name": "1-3",
+          "types": [
+            "street_number"
+          ]
+        },
+        {
+          "long_name": "Wartiner Straße",
+          "short_name": "Wartiner Str.",
+          "types": [
+            "route"
+          ]
+        },
+        {
+          "long_name": "Bezirk Lichtenberg",
+          "short_name": "Bezirk Lichtenberg",
+          "types": [
+            "political",
+            "sublocality",
+            "sublocality_level_1"
+          ]
+        },
+        {
+          "long_name": "Berlin",
+          "short_name": "Berlin",
+          "types": [
+            "locality",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Kreisfreie Stadt Berlin",
+          "short_name": "Kreisfreie Stadt Berlin",
+          "types": [
+            "administrative_area_level_3",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Berlin",
+          "short_name": "BE",
+          "types": [
+            "administrative_area_level_1",
+            "political"
+          ]
+        },
+        {
+          "long_name": "Germany",
+          "short_name": "DE",
+          "types": [
+            "country",
+            "political"
+          ]
+        },
+        {
+          "long_name": "13057",
+          "short_name": "13057",
+          "types": [
+            "postal_code"
+          ]
+        }
+      ],
+      "formatted_address": "Wartiner Str. 1-3, 13057 Berlin, Germany",
+      "geometry": {
+        "location": {
+          "lat": 52.56945,
+          "lng": 13.53086
+        },
+        "location_type": "ROOFTOP",
+        "viewport": {
+          "northeast": {
+            "lat": 52.57069448029149,
+            "lng": 13.5319879302915
+          },
+          "southwest": {
+            "lat": 52.56799651970849,
+            "lng": 13.5292899697085
+          }
+        }
+      },
+      "place_id": "ChIJPQ8dg2FMqEcRxOr91uKgYZA",
+      "plus_code": {
+        "compound_code": "HG9J+Q8 Berlin, Germany",
+        "global_code": "9F4MHG9J+Q8"
+      },
+      "types": [
+        "street_address"
+      ]
+    }
+  }
+]

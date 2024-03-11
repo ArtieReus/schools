@@ -1,7 +1,6 @@
 const axios = require("axios")
 const cheerio = require("cheerio")
 const fs = require("fs")
-const url = require("url")
 
 const SECONDARY_SCHOOLS = "secondarySchools"
 const HIGH_SCHOOLS = "highSchools"

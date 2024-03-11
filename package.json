@@ -9,6 +9,7 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.6.7",
     "cheerio": "^1.0.0-rc.12",
+    "google-map-react": "^2.2.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-scripts": "5.0.1",
@@ -16,6 +17,7 @@
   },
   "scripts": {
     "crawler": "node ./src/lib/crawler",
+    "geocoder": "node ./src/lib/geocoder",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
